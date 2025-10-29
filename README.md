@@ -2,8 +2,11 @@
 
 Formacao voltada a construcao de aplicacoes web Java tradicionais, cobrindo fundamentos de aplicacoes cliente-servidor, servlets, JSP, MVC e um projeto integrador completo.
 
+- **Período:** 04/08/2025 a 19/12/2025
 - **Carga Horaria Total:** 80 horas  
-- **Duracao por Aula:** 2 horas  
+- **Duração por Aula:** 2 horas  
+- **Dias das Aulas:** Segundas e Quartas  
+- **Frequencia Minima:** 75%  
 - **Formato:** 5 modulos com teoria, exercicios práticos, projetos e materiais complementares.
 
 ## Estrutura de Pastas
