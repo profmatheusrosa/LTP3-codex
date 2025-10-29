@@ -212,6 +212,15 @@ O `README.md` deve existir na raiz do repositório e seguir um template padroniz
 - Inclua um link para `planejamento_aulas.md` e um resumo breve da distribuição de aulas/módulos.
 - Não adicionar seções extras de instruções operacionais ou checklists no README; a navegação deve ser conduzida pelos Links Rápidos e pelos links de retorno presentes nos arquivos de teoria, exercícios e projetos.
 
+6) Pré-requisitos e Ambiente de Desenvolvimento
+
+- Liste configurações mínimas recomendadas.
+
+7) Integridade Acadêmica
+
+- Inclua uma política clara incentivando esforço próprio, uso responsável de ferramentas (incluindo IA) e repúdio a cópias.
+- Recomenda-se um texto motivacional enfatizando que exercícios e projetos são oportunidades reais de aprendizagem e construção de caráter.
+
 8) Exemplo de Template de README (markdown)
 
 Inclua no arquivo de orientações um exemplo completo mínimo do `README.md` (substitua textos por placeholders):

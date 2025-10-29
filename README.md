@@ -37,5 +37,18 @@ ltp3/
 | Modulo 4<br>Arquitetura MVC e Padroes | [Teoria](teoria/modulo_04_arquitetura_mvc_e_padroes_de_projeto.md) | [Exercicios](exercicios/modulo_04_exercicios_arquitetura_mvc_e_padroes_de_projeto.md) | [Projeto](projetos/modulo_04_projeto_arquitetura_mvc_e_padroes_de_projeto.md) |
 | Modulo 5<br>Projeto de Conclusao | [Teoria](teoria/modulo_05_projeto_de_conclusao.md) | [Exercicios](exercicios/modulo_05_exercicios_projeto_de_conclusao.md) | [Projeto](projetos/modulo_05_projeto_projeto_de_conclusao.md) |
 
-## Planejamento das Aulas
-- Consulte o documento [planejamento_aulas.md](planejamento_aulas.md) para a distribuicao de 40 aulas (2h cada) com links diretos para teoria, exercicios e projetos.
+## Pré-requisitos e Ambiente de Desenvolvimento
+
+- Java Development Kit (JDK) 17+
+- Apache Maven 3.9+ (ou Gradle 8+)
+- IDE (IntelliJ IDEA, Eclipse, VS Code + Extensões Java)
+- Servidor de Aplicação: Apache Tomcat 10.1+ (ou Jetty 11+)
+
+## Integridade Acadêmica
+Vivemos em uma sociedade que critica fortemente a desonestidade, a corrupção e as condutas antiéticas. No entanto, é importante refletir que esses grandes desvios começam, muitas vezes, em pequenos atos do dia a dia — quando deixamos de fazer nossa parte, quando copiamos um exercício, pedimos a alguém para resolver um trabalho por nós ou usamos a inteligência artificial para evitar o esforço que deveria ser nosso.
+
+Neste curso, cada exercício, projeto e desafio é uma oportunidade de aprendizado real. É ali que erramos, corrigimos e evoluímos. Quando alguém opta por copiar respostas, usar indevidamente ferramentas de inteligência artificial ou deixar que outros façam o que deveria ser seu esforço, está, na verdade, enganando a si mesmo.
+
+A integridade não é uma virtude que se adquire subitamente na vida adulta; ela se cultiva nas decisões pequenas de cada dia. Quando você escolhe enfrentar a dificuldade de um exercício ao invés de simplesmente copiá-lo, está fortalecendo não apenas suas habilidades técnicas, mas seu caráter.
+
+Portanto, convidamos cada aluno a trilhar seu caminho com integridade acadêmica — porque é isso que forma não apenas bons profissionais, mas cidadãos conscientes, capazes de transformar a realidade que tanto desejam ver melhorada.
