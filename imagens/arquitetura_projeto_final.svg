@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420">
+  <rect width="860" height="420" fill="#0f172a" />
+  <text x="430" y="40" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Arquitetura Projeto Final</text>
+  <rect x="60" y="120" width="180" height="220" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="150" y="160" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Cliente</text>
+  <text x="150" y="190" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">JSP • HTML • JS</text>
+  <rect x="280" y="100" width="160" height="260" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="360" y="140" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Controller</text>
+  <text x="360" y="170" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Servlet Front Controller</text>
+  <rect x="470" y="80" width="150" height="300" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="545" y="120" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Services</text>
+  <text x="545" y="150" font-family="Arial" font-size= "14" fill="#e2e8f0" text-anchor="middle">Regras de negocio</text>
+  <rect x="650" y="80" width="150" height="160" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="725" y="120" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">DAO / JPA</text>
+  <rect x="650" y="260" width="150" height="120" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="725" y="300" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Integracao</text>
+  <text x="725" y="325" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">APIs externas</text>
+  <circle cx="725" cy="60" r="25" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="725" y="65" font-family="Arial" font-size="12" fill="#f8fafc" text-anchor="middle">DB</text>
+  <circle cx="725" cy="240" r="25" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="725" y="245" font-family="Arial" font-size="12" fill="#f8fafc" text-anchor="middle">API</text>
+  <path d="M240 200 L280 200" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M440 200 L470 200" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M620 150 L650 150" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M725 100 L725 85" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrowUp)" />
+  <path d="M725 180 L725 215" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrowDown)" />
+  <path d="M620 320 L650 320" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <text x="260" y="190" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">HTTP</text>
+  <text x="455" y="190" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">DTOs</text>
+  <text x="635" y="140" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">Repositorios</text>
+  <text x="605" y="320" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">Eventos/Notificacoes</text>
+  <text x="725" y="360" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Logs • CI/CD</text>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#38bdf8" />
+    </marker>
+    <marker id="arrowUp" markerWidth="12" markerHeight="12" refX="6" refY="2" orient="auto">
+      <path d="M0,12 L6,0 L12,12 z" fill="#38bdf8" />
+    </marker>
+    <marker id="arrowDown" markerWidth="12" markerHeight="12" refX="6" refY="10" orient="auto">
+      <path d="M0,0 L12,0 L6,12 z" fill="#38bdf8" />
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="360">
+  <rect width="820" height="360" fill="#0f172a" />
+  <text x="410" y="40" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Redirect x Forward</text>
+  <rect x="80" y="100" width="280" height="200" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="460" y="100" width="280" height="200" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="220" y="130" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">sendRedirect</text>
+  <text x="220" y="160" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Resposta 302</text>
+  <text x="220" y="190" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Cliente faz nova requisição</text>
+  <text x="220" y="220" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">URL muda</text>
+  <text x="600" y="130" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">RequestDispatcher.forward</text>
+  <text x="600" y="160" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Sem nova requisição</text>
+  <text x="600" y="190" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Contexto preservado</text>
+  <text x="600" y="220" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">URL não muda</text>
+  <path d="M140 270 L140 290 L300 290" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M520 270 L520 290 L680 290" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <text x="300" y="305" font-family="Arial" font-size="12" fill="#e2e8f0" text-anchor="end">Cliente novamente</text>
+  <text x="680" y="305" font-family="Arial" font-size="12" fill="#e2e8f0">Servidor interno</text>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#38bdf8" />
+    </marker>
+  </defs>
+</svg>

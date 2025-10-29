@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="340">
+  <rect width="820" height="340" fill="#0f172a" />
+  <text x="410" y="40" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Modelo - Visao - Controle</text>
+  <rect x="120" y="120" width="160" height="150" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="330" y="80" width="160" height="230" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="540" y="120" width="160" height="150" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="200" y="150" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">View</text>
+  <text x="200" y="180" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">JSP • HTML</text>
+  <text x="410" y="130" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Controller</text>
+  <text x="410" y="160" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Servlet • Front Controller</text>
+  <text x="620" y="150" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Model</text>
+  <text x="620" y="180" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Entidades • DAO</text>
+  <path d="M280 180 L330 180" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M490 180 L540 180" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M410 260 L410 290" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrowDown)" />
+  <text x="345" y="170" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">Eventos do usuario</text>
+  <text x="515" y="170" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">Atualiza modelo</text>
+  <text x="410" y="310" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">Modelo notifica View</text>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#38bdf8" />
+    </marker>
+    <marker id="arrowDown" markerWidth="12" markerHeight="12" refX="6" refY="10" orient="auto">
+      <path d="M0,0 L12,0 L6,12 z" fill="#38bdf8" />
+    </marker>
+  </defs>
+</svg>

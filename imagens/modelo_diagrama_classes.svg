@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="360">
+  <rect width="820" height="360" fill="#0f172a" />
+  <text x="410" y="40" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Modelo de Dominio</text>
+  <rect x="120" y="100" width="200" height="200" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="360" y="100" width="200" height="200" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="600" y="100" width="140" height="200" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="220" y="130" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Curso</text>
+  <text x="220" y="160" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">id: UUID</text>
+  <text x="220" y="185" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">nome: String</text>
+  <text x="220" y="210" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">cargaHoraria: int</text>
+  <text x="220" y="235" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">modulos: List&lt;Modulo&gt;</text>
+  <text x="460" y="130" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Modulo</text>
+  <text x="460" y="160" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">ordem: int</text>
+  <text x="460" y="185" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">titulo: String</text>
+  <text x="460" y="210" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">aulas: List&lt;Aula&gt;</text>
+  <text x="670" y="130" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Aula</text>
+  <text x="670" y="160" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">titulo</text>
+  <text x="670" y="185" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">duracao</text>
+  <path d="M320 180 L360 180" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M560 180 L600 180" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <text x="340" y="170" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">1..* modulos</text>
+  <text x="580" y="170" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">1..* aulas</text>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#38bdf8" />
+    </marker>
+  </defs>
+</svg>

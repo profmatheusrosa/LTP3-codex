@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="360">
+  <rect width="820" height="360" fill="#0f172a" />
+  <text x="410" y="50" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Camadas do Cliente Web</text>
+  <rect x="80" y="100" width="160" height="200" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="260" y="100" width="160" height="200" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="440" y="100" width="160" height="200" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="620" y="100" width="160" height="200" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="160" y="140" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">HTML/XHTML</text>
+  <text x="160" y="170" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Estrutura semantica</text>
+  <text x="160" y="200" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Forms • Links • Acessibilidade</text>
+  <text x="340" y="140" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">CSS</text>
+  <text x="340" y="170" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Layout • Temas • Animacoes</text>
+  <text x="340" y="200" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Flexbox • Grid • Variaveis</text>
+  <text x="520" y="140" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">JavaScript</text>
+  <text x="520" y="170" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">DOM • Eventos • Fetch API</text>
+  <text x="520" y="200" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Promises • Modules</text>
+  <text x="700" y="140" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Web APIs</text>
+  <text x="700" y="170" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Storage • Service Worker</text>
+  <text x="700" y="200" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Geolocation • Canvas</text>
+</svg>

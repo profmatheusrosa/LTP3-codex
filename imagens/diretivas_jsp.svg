@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="320">
+  <rect width="820" height="320" fill="#0f172a" />
+  <text x="410" y="40" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Diretivas JSP</text>
+  <rect x="120" y="100" width="180" height="160" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="320" y="100" width="180" height="160" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="520" y="100" width="180" height="160" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="210" y="140" font-family="Courier New" font-size="16" fill="#f8fafc" text-anchor="middle">&lt;%@ page ... %&gt;</text>
+  <text x="210" y="170" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">contentType, import</text>
+  <text x="410" y="140" font-family="Courier New" font-size="16" fill="#f8fafc" text-anchor="middle">&lt;%@ include file="..." %&gt;</text>
+  <text x="410" y="170" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Inclui no build</text>
+  <text x="610" y="140" font-family="Courier New" font-size="16" fill="#f8fafc" text-anchor="middle">&lt;%@ taglib prefix="c" %&gt;</text>
+  <text x="610" y="170" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Biblioteca JSTL</text>
+</svg>

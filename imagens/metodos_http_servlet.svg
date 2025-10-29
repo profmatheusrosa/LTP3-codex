@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="360">
+  <rect width="820" height="360" fill="#0f172a" />
+  <text x="410" y="40" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Metodos HTTP x Servlets</text>
+  <rect x="140" y="90" width="540" height="220" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="410" y="120" font-family="Arial" font-size="16" fill="#f8fafc" text-anchor="middle">Tabela de Correspondencia</text>
+  <text x="220" y="150" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">Metodo HTTP</text>
+  <text x="410" y="150" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">Metodo Servlet</text>
+  <text x="600" y="150" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">Uso Tipico</text>
+  <text x="220" y="190" font-family="Arial" font-size="14" fill="#f8fafc" text-anchor="middle">GET</text>
+  <text x="410" y="190" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">doGet</text>
+  <text x="600" y="190" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Consultar dados</text>
+  <text x="220" y="220" font-family="Arial" font-size="14" fill="#f8fafc" text-anchor="middle">POST</text>
+  <text x="410" y="220" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">doPost</text>
+  <text x="600" y="220" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Criar/Processar</text>
+  <text x="220" y="250" font-family="Arial" font-size="14" fill="#f8fafc" text-anchor="middle">PUT</text>
+  <text x="410" y="250" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">doPut</text>
+  <text x="600" y="250" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Atualizar recurso</text>
+  <text x="220" y="280" font-family="Arial" font-size="14" fill="#f8fafc" text-anchor="middle">DELETE</text>
+  <text x="410" y="280" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">doDelete</text>
+  <text x="600" y="280" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Remover recurso</text>
+</svg>

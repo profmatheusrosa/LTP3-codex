@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="360">
+  <rect width="820" height="360" fill="#0f172a" />
+  <text x="410" y="40" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Fluxo de um Controller Servlet</text>
+  <rect x="120" y="100" width="200" height="220" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="320" y="120" width="200" height="180" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="560" y="120" width="200" height="180" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="220" y="140" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">1. Recebe requisicao</text>
+  <text x="220" y="170" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Parametros e validacoes</text>
+  <text x="420" y="160" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">2. Chama Service</text>
+  <text x="420" y="190" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Regras de negocio</text>
+  <text x="660" y="160" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">3. Encaminha JSP</text>
+  <text x="660" y="190" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">RequestDispatcher</text>
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <path d="M320 200 L320 200" stroke="#38bdf8" stroke-width="3" />
+  <rect x="320" y="120" width="200" height="180" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <path d="M240 200 L320 200" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M520 200 L560 200" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <text x="290" y="190" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">req + params</text>
+  <text x="540" y="190" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">atributos + forward</text>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#38bdf8" />
+    </marker>
+  </defs>
+</svg>

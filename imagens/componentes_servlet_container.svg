@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="340">
+  <rect width="820" height="340" fill="#0f172a" />
+  <text x="410" y="40" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Container de Servlets</text>
+  <rect x="100" y="100" width="220" height="200" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="210" y="140" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Listener</text>
+  <text x="210" y="170" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Inicializa contexto</text>
+  <rect x="340" y="80" width="140" height="240" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="410" y="120" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Thread Pool</text>
+  <text x="410" y="150" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Requisicoes concorrentes</text>
+  <rect x="520" y="100" width="220" height="200" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="630" y="140" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Servlets</text>
+  <text x="630" y="170" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">doGet • doPost • Filters</text>
+  <path d="M60 200 L100 200" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M320 200 L340 200" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M480 200 L520 200" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <text x="60" y="180" font-family="Arial" font-size="14" fill="#e2e8f0">Requisicao</text>
+  <text x="760" y="220" font-family="Arial" font-size="14" fill="#e2e8f0">Resposta</text>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#38bdf8" />
+    </marker>
+  </defs>
+</svg>

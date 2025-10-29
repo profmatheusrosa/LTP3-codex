@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="320">
+  <rect width="820" height="320" fill="#0f172a" />
+  <text x="410" y="40" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Acoes JSP</text>
+  <rect x="160" y="90" width="200" height="180" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="460" y="90" width="200" height="180" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="260" y="130" font-family="Courier New" font-size="16" fill="#f8fafc" text-anchor="middle">&lt;jsp:useBean id="curso" ... /&gt;</text>
+  <text x="260" y="160" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Localiza ou cria bean</text>
+  <text x="560" y="130" font-family="Courier New" font-size="16" fill="#f8fafc" text-anchor="middle">&lt;jsp:setProperty ... /&gt;</text>
+  <text x="560" y="160" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Popula atributos</text>
+  <path d="M360 180 L460 180" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <text x="410" y="160" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">Bean instanciado -> propriedades</text>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#38bdf8" />
+    </marker>
+  </defs>
+</svg>

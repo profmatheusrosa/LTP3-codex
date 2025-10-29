@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="320">
+  <rect width="820" height="320" fill="#0f172a" />
+  <text x="410" y="40" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Fluxo DAO</text>
+  <rect x="100" y="120" width="160" height="150" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="320" y="120" width="180" height="150" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="560" y="120" width="160" height="150" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="180" y="160" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Service</text>
+  <text x="180" y="190" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Regras de negocio</text>
+  <text x="410" y="160" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">DAO</text>
+  <text x="410" y="190" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">CRUD</text>
+  <text x="640" y="160" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Banco</text>
+  <text x="640" y="190" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">SQL/NoSQL</text>
+  <path d="M260 170 L320 170" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M500 170 L560 170" stroke="#38bdf8" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M560 210 L500 210" stroke="#f97316" stroke-width="3" marker-end="url(#arrowResp)" />
+  <path d="M320 210 L260 210" stroke="#f97316" stroke-width="3" marker-end="url(#arrowResp)" />
+  <text x="290" y="160" font-family="Arial" font-size="14" fill="#bae6fd" text-anchor="middle">Solicita persistencia</text>
+  <text x="470" y="220" font-family="Arial" font-size="14" fill="#fed7aa" text-anchor="middle">Retorna entidades</text>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#38bdf8" />
+    </marker>
+    <marker id="arrowResp" markerWidth="12" markerHeight="12" refX="2" refY="6" orient="auto">
+      <path d="M12,0 L0,6 L12,12 z" fill="#f97316" />
+    </marker>
+  </defs>
+</svg>

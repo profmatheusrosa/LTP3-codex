@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="360">
+  <rect width="820" height="360" fill="#0f172a" />
+  <text x="410" y="40" font-family="Arial" font-size="22" fill="#f8fafc" text-anchor="middle">Objetos Implicitos JSP</text>
+  <rect x="120" y="80" width="200" height="240" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="320" y="80" width="200" height="240" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <rect x="520" y="80" width="200" height="240" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="220" y="120" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Request</text>
+  <text x="220" y="150" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Dados da requisicao</text>
+  <text x="220" y="180" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Parametros, headers</text>
+  <text x="420" y="120" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Session</text>
+  <text x="420" y="150" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Estado do usuario</text>
+  <text x="620" y="120" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Application</text>
+  <text x="620" y="150" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Contexto global</text>
+  <text x="420" y="220" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">Out</text>
+  <text x="420" y="245" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Writer para a resposta</text>
+  <text x="620" y="220" font-family="Arial" font-size="18" fill="#f8fafc" text-anchor="middle">PageContext</text>
+  <text x="620" y="245" font-family="Arial" font-size="14" fill="#e2e8f0" text-anchor="middle">Acesso a escopos</text>
+</svg>
